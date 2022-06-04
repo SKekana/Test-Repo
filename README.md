@@ -1,2 +1,2 @@
 # Test-Repo
-Respository to rest out GitHub
+Respository to test out GitHub.
